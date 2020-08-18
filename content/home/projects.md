@@ -9,9 +9,12 @@ widget = "portfolio"
 css_class = ""
 css_style = ""
 [content]
+count = "1"
 filter_default = 0
-link_to_archive = true
+link_to_archive = false
+order = "1"
 page_type = "project"
+user_groups = ["grupo"]
 [content.filters]
 author = "Kevinn"
 category = "Categoria"
