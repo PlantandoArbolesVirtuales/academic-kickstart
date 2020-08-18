@@ -10,6 +10,7 @@ css_class = ""
 css_style = ""
 [content]
 filter_default = 0
+link_to_archive = true
 page_type = "project"
 [content.filters]
 author = "Kevinn"
