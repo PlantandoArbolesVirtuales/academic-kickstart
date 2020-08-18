@@ -11,6 +11,11 @@ css_style = ""
 [content]
 filter_default = 0
 page_type = "project"
+[content.filters]
+author = "Kevinn"
+category = "Categoria"
+publication_type = "tipo"
+tag = "tag"
 [design]
 columns = "2"
 flip_alt_rows = false
