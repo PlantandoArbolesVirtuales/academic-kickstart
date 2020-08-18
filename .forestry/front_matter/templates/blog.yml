@@ -59,4 +59,5 @@ fields:
     name: css_class
     label: css_class
 pages:
+- content/post/hola1.md
 - content/publication/hola.md
